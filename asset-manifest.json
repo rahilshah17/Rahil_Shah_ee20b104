@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rahil_Shah_ee20b104/static/css/main.a617e044.chunk.css",
+    "main.js": "/Rahil_Shah_ee20b104/static/js/main.6fe6f5f3.chunk.js",
+    "main.js.map": "/Rahil_Shah_ee20b104/static/js/main.6fe6f5f3.chunk.js.map",
+    "runtime-main.js": "/Rahil_Shah_ee20b104/static/js/runtime-main.cfcca2bf.js",
+    "runtime-main.js.map": "/Rahil_Shah_ee20b104/static/js/runtime-main.cfcca2bf.js.map",
+    "static/js/2.8922bf05.chunk.js": "/Rahil_Shah_ee20b104/static/js/2.8922bf05.chunk.js",
+    "static/js/2.8922bf05.chunk.js.map": "/Rahil_Shah_ee20b104/static/js/2.8922bf05.chunk.js.map",
+    "static/js/3.69682f24.chunk.js": "/Rahil_Shah_ee20b104/static/js/3.69682f24.chunk.js",
+    "static/js/3.69682f24.chunk.js.map": "/Rahil_Shah_ee20b104/static/js/3.69682f24.chunk.js.map",
+    "index.html": "/Rahil_Shah_ee20b104/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Rahil_Shah_ee20b104/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8922bf05.chunk.js.LICENSE.txt": "/Rahil_Shah_ee20b104/static/js/2.8922bf05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfcca2bf.js",
+    "static/js/2.8922bf05.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6fe6f5f3.chunk.js"
+  ]
+}
